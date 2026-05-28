@@ -39,11 +39,27 @@ moderna, incluindo cloud computing, containers e sistemas distribuídos.
 - `README.md` - visão geral do projeto e objetivos acadêmicos
 - `conceitos-observabilidade.md` - fundamentos de observabilidade e diferenças entre observáveis
 - `prometheus-grafana.md` - explicação das ferramentas e integração
+- `prometheus-exemplos.md` - exemplos práticos de configuração do Prometheus
+- `alertmanager.md` - regras de alerta e notificações
 - `arquitetura-monitoramento.md` - fluxo de monitoramento, logs e alertas
+- `boas-praticas-observabilidade.md` - melhores práticas para métricas, alertas e dashboards
+- `observabilidade-cloud.md` - observabilidade em ambientes de nuvem como AWS
+- `glossario.md` - definições importantes de termos e conceitos
+
+---
+
+## 📌 Sumário
+
+- [Objetivos](#-objetivos)
+- [Conteúdo abordado](#-conteúdo-abordado)
+- [Aplicação prática](#-aplicação-prática)
+- [Estrutura do projeto](#-estrutura-do-projeto)
+- [Observação](#-observação)
 
 ---
 
 ## 📝 Observação
 
 Este repositório é focado em documentação, organização de conceitos e boas práticas,
-sem necessidade de executar instalações ou provisionar infraestrutura real.
+sendo totalmente válido para atividade acadêmica. Não há necessidade de executar
+instalações ou provisionar infraestrutura real para este estudo.
